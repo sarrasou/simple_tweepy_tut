@@ -1,4 +1,4 @@
-#Downloading python, pip, and tweepy:
+##Downloading python, pip, and tweepy:
 
 Download latest v of python
 https://www.python.org/downloads/
@@ -12,7 +12,7 @@ then run
 then run
 `pip install tweepy`
 
-#Bot stuff:
+##Bot stuff:
 
 Create a twitter dev account
 Create an application.
@@ -32,10 +32,10 @@ in a text editor
 
 Look at the github repos below to learn how to use for loops and the sleep function to continuously tweet.
 
-#Tweepy API documentation
+##Tweepy API documentation
 http://docs.tweepy.org/en/latest/getting_started.html#api
 
-#Referenced repos
+##Referenced repos
 https://github.com/sarrasou/simple_tweepy_tut
 
 https://github.com/y-mehta/twitter-bot
