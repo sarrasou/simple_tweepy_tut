@@ -4,13 +4,13 @@ Download latest v of python
 https://www.python.org/downloads/
 
 pip should already be installed if not, paste in terminal:
-curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+`curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py`
 
 then run
-python get-pip.py
+`python get-pip.py`
 
 then run
-pip install tweepy
+`pip install tweepy`
 
 #Bot stuff:
 
