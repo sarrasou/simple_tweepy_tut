@@ -19,15 +19,15 @@ Create an application.
 Apps>your_app_name> keys and tokens
 
 in a text editor
-1.	Create a folder called twitter bot
-2.	Create a file called config.py
-3.	Copy paste the config.py file
+1.	Create a folder called `twitter_bot`
+2.	Create a file called `config.py`
+3.	Copy paste the `config.py` file
 4.	Put in your keys and tokens
-5.	Create a new file called test.txt and write whatever you’d like in it
-6.	Create a new file called tweet-from-file.py
-7.	Copy paste the tweet-from-file.py file
+5.	Create a new file called `test.txt` and write whatever you’d like in it
+6.	Create a new file called `tweet-from-file.py`
+7.	Copy paste the `tweet-from-file.py` file
 8.	In terminal cd into your folder
-9.	Run python3 tweet-from-file.py
+9.	Run `python3 tweet-from-file.py`
 10.	You should see your file printed in the terminal and tweeted to your bot
 
 Look at the github repos below to learn how to use for loops and the sleep function to continuously tweet.
